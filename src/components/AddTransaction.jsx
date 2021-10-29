@@ -43,7 +43,7 @@ export const AddTransaction = () => {
       
       
     }
-  }, [err, data, dispatch])
+  }, [err])
 
   return (
     <>
